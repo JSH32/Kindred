@@ -1,2 +1,2 @@
-# Example Mod
-This is an example mod for Kotlin.
+# Kindred
+Fabric mod for making communication with your friends easier.
